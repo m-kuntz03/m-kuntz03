@@ -1,4 +1,4 @@
-## Heyo!
+## Heyo! :dragon: 
 
 I'm in my fifth semester studying physics at Universität Heidelberg. 
 
