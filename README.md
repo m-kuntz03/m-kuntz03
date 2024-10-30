@@ -1,4 +1,13 @@
-## Hi there 👋
+## Heyo!
+
+I'm in my fifth semester studying physics at Universität Heidelberg. 
+
+Currently I am working on a project internship in the GALENA Group at the ARI (Astronomisches Recheninstitut) here in Heidelberg.
+
+As a result as well as apart from my studies I am always eager to expand my coding and technical knowledge, which this is supposed to be a platform for.
+
+
+# I hope you are having a great day!
 
 <!--
 **m-kuntz03/m-kuntz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
