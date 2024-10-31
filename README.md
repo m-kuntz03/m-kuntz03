@@ -2,7 +2,7 @@
 
 I'm in my fifth semester studying physics at Universität Heidelberg. 
 
-Currently I am working on a project internship in the GALENA Group at the ARI (Astronomisches Recheninstitut) here in Heidelberg.
+Currently I am working on a project internship in the GALENA group at ARI (Astronomisches Recheninstitut) here in Heidelberg.
 
 As a result as well as apart from my studies I am always eager to expand my coding and technical knowledge, which this is supposed to be a platform for.
 
