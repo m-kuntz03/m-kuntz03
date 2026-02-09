@@ -1,8 +1,8 @@
 ## Heyo! :dragon: 
 
-I'm in my sixth semester studying physics at Universität Heidelberg. 
+I'm in my seventh semester studying physics at Universität Heidelberg. 
 
-Currently I am working on my Bachelors Thesis in the GALENA group at ARI (Astronomisches Recheninstitut) here in Heidelberg.
+In November 2025, I finsihed my Bachelor Thesis on analysing the molecular gas properties and star formation in a local galaxy hosting an AGN (Active Galactic Nucleus) in the GALENA group at ARI (Astronomisches Recheninstitut) here in Heidelberg. Currently I am working on my first publication which aims to expand on the thesis.
 
 
 ### I hope you are having a great day!
